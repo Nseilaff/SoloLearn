@@ -1,0 +1,15 @@
+C:\Users\seila\Repos\NewProj\bin\Debug\net6.0\Repos.exe
+C:\Users\seila\Repos\NewProj\bin\Debug\net6.0\Repos.deps.json
+C:\Users\seila\Repos\NewProj\bin\Debug\net6.0\Repos.runtimeconfig.json
+C:\Users\seila\Repos\NewProj\bin\Debug\net6.0\Repos.dll
+C:\Users\seila\Repos\NewProj\bin\Debug\net6.0\Repos.pdb
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.csproj.AssemblyReference.cache
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.AssemblyInfoInputs.cache
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.AssemblyInfo.cs
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.csproj.CoreCompileInputs.cache
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.dll
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\refint\Repos.dll
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.pdb
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\Repos.genruntimeconfig.cache
+C:\Users\seila\Repos\NewProj\obj\Debug\net6.0\ref\Repos.dll
