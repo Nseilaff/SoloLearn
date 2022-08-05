@@ -11,17 +11,18 @@ namespace SoloLearn
     {
         static void Main(string[] args)
         {
-            string day = "Monday";
+            string day = "Friday";
             int d = 10;
             bool t = true;
             double myDouble = 2.2;
             decimal myDecimal = 3.14159265m;
+            decimal myDecimal_1 = 4.666m;
             char[] chars = new char[4];
 
-            chars[0] = 'X';
-            chars[1] = '\x0058';
-            chars[2] = (char)88;
-            chars[3] = '\u0058';
+            chars[0] = 'M';
+            chars[1] = 'e';
+            chars[2] = '&';
+            chars[3] = 'I';
 
             foreach (char c in chars)
             {
@@ -32,6 +33,8 @@ namespace SoloLearn
             Console.WriteLine(t);
             Console.WriteLine(myDouble);
             Console.WriteLine(myDecimal);
+            Console.WriteLine(myDecimal_1);
+            Console.WriteLine("Thank you for participating!");
 
         }
     }

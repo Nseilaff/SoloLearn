@@ -12,3 +12,17 @@ C:\Users\seila\source\repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLear
 C:\Users\seila\source\repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.dll
 C:\Users\seila\source\repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.pdb
 C:\Users\seila\source\repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.genruntimeconfig.cache
+C:\Users\seila\Repos\SoloLearn\SoloLearn\bin\Debug\netcoreapp3.1\SoloLearn.exe
+C:\Users\seila\Repos\SoloLearn\SoloLearn\bin\Debug\netcoreapp3.1\SoloLearn.deps.json
+C:\Users\seila\Repos\SoloLearn\SoloLearn\bin\Debug\netcoreapp3.1\SoloLearn.runtimeconfig.json
+C:\Users\seila\Repos\SoloLearn\SoloLearn\bin\Debug\netcoreapp3.1\SoloLearn.runtimeconfig.dev.json
+C:\Users\seila\Repos\SoloLearn\SoloLearn\bin\Debug\netcoreapp3.1\SoloLearn.dll
+C:\Users\seila\Repos\SoloLearn\SoloLearn\bin\Debug\netcoreapp3.1\SoloLearn.pdb
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.csproj.AssemblyReference.cache
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.AssemblyInfoInputs.cache
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.AssemblyInfo.cs
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.csproj.CoreCompileInputs.cache
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.dll
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.pdb
+C:\Users\seila\Repos\SoloLearn\SoloLearn\obj\Debug\netcoreapp3.1\SoloLearn.genruntimeconfig.cache
