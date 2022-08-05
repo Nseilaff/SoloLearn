@@ -23,17 +23,13 @@ namespace SoloLearn
             chars[1] = 'e';
             chars[2] = '&';
             chars[3] = 'I';
-
+            Console.WriteLine($"Today is {day} and it is {d}am, and this is rendom {t} {myDouble} {myDecimal}");
             foreach (char c in chars)
             {
                 Console.Write(c + " ");
             }
-            Console.WriteLine(d);
-            Console.WriteLine(day);
-            Console.WriteLine(t);
-            Console.WriteLine(myDouble);
-            Console.WriteLine(myDecimal);
-            Console.WriteLine(myDecimal_1);
+            
+           
             Console.WriteLine("Thank you for participating!");
 
         }
